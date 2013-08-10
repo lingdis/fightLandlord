@@ -1,0 +1,10 @@
+develop process
+	start from 2013.08.10
+	
+	2013.08.10. Fisrt, I should write the main game framework. The framworks should provide the basic function that support a basic fight game's running. That means if there is no AI just human play the game or there is just really stupid AI, they can play the game.
+ 	The first step is not easy, I think preliminarily there are three parts I should care.
+	1) The main game process includes sending cards, saying cards, showing cards, playing cards, finishing. And the playing cards part may need to bo more specific to define the game. This part need a good software architect and a better understand of the game.
+	2) Funtion API, such as sending cards, record the cards' statistic, verify win and lose and others that support the game's other function. This part should be reuseble and changable for I can not do the write thing in the first place.
+	3) Define the game's playing rule. this one may be part of 2), but it's so complicated and I should list it as a single part. Maybe I'm wrong and missize it. This part maybe the easiest one, and it just need judgement for a just-work version and more algorithm to a more-effective version.
+	
+	I estimate 6 + 3 + 3 = 12hours to finish the work. For I think it's a little hard for me take 2hours a day. For the reason of weekday's work and weekend's enough of work. I think I maybe can finish this (squeeze my 12 hours to do this but not promise to finish the job) in 2013.08.18
