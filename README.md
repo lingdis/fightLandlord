@@ -17,7 +17,8 @@ fightLandlord
 test breakline
 test breakline
 [baidu](www.baidu.com)(www.google.com) www.dangdang.com
-[google](http://www.google.com)[test](www.baidu.com)
+[google](http://www.google.com)[test](www.baidu.com)  
+
 ![](http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg)
 
 
@@ -26,9 +27,7 @@ test breakline
 *one man* **two day**
 
 
-    one line text
-
-
+    one line text  
 
 
     multi-line text
