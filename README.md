@@ -17,3 +17,4 @@ fightLandlord
 test breakline
 test breakline
 [baidu](www.baidu.com)(www.google.com) www.dangdang.com
+[google](www.google.com)[test](www.baidu.com)
