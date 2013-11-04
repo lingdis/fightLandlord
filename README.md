@@ -26,7 +26,6 @@ test breakline
 *one man* **two day**
 
 
-
     one line text
 
 
